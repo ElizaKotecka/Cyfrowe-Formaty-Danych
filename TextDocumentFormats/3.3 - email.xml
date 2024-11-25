@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emailData>
+	<sender>Me</sender>
+	<recipient>You</recipient>
+	<subject>Something</subject>
+	<message>
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+	</message>
+</emailData>

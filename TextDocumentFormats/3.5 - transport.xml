@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transports>
+	<transport type="car" brand="KIA">
+		<info>
+			<max_speed unit="km/h">170</max_speed>
+			<comfort>Excelent</comfort>
+			<size>Medium</size>
+			<number_of_doors>4</number_of_doors>
+		</info>
+	</transport>
+	<transport type="bus" brand="MAN">
+		<info>
+			<max_speed unit="km/h">120</max_speed>
+			<comfort>Bad</comfort>
+			<size>Large</size>
+			<number_of_doors>3</number_of_doors>
+		</info>
+	</transport>
+	<transport type="bike" brand="Giant">
+		<info>
+			<max_speed unit="km/h">40</max_speed>
+			<comfort>Good</comfort>
+			<size>Small</size>
+			<number_of_doors>0</number_of_doors>
+		</info>
+	</transport>
+</transports>

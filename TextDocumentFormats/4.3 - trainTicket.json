@@ -1,0 +1,11 @@
+{
+"passenger_name": "Jane Doe",
+"train_number": 12345,
+"train_name": "Intercity Express",
+"station": "Cracow Main Station",
+"time": "8:30",
+"seat_number": "12A",
+"ticket_cost": 23.50,
+"pets_allowed": false,
+"amenities": ["bar", "wars", "silence zone"]
+}
