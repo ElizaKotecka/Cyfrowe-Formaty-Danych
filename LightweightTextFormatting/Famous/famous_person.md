@@ -1,4 +1,4 @@
-# ![Jennifer Lawrence](https://pl.wikiquote.org/wiki/Jennifer_Lawrence#/media/Plik:Jennifer_Lawrence_at_the_83rd_Academy_Awards_crop.jpg)  
+# ![Jennifer Lawrence](https://awpress.pl/wp-content/uploads/2024/10/Screenshot_20241020_184852.jpg)  
 
 ## Description
 
