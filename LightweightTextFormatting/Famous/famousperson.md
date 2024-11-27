@@ -1,9 +1,9 @@
-# Jennifer Lawrence  
-![Jennifer Lawrence](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpl.wikiquote.org%2Fwiki%2FJennifer_Lawrence&psig=AOvVaw3hcG3i3T4TsPWAUw6-dwHf&ust=1732803838377000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDPh7zb_IkDFQAAAAAdAAAAABAE)
+# ![Jennifer Lawrence](https://pl.wikiquote.org/wiki/Jennifer_Lawrence#/media/Plik:Jennifer_Lawrence_at_the_83rd_Academy_Awards_crop.jpg)  
 
 ## Description
 
-Jennifer Shrader Lawrence (born August 15, 1990) is an American actress and producer. Lawrence is known for starring in both action film franchises and independent dramas, and her films have grossed over $6 billion worldwide. The world's highest-paid actress in 2015 and 2016, she appeared in Time's 100 most influential people in the world list in 2013 and the Forbes Celebrity 100 list from 2013 to 2016.  
+Jennifer Shrader Lawrence (born August 15, 1990) is an American actress and producer. Lawrence is known for starring in both action film franchises and independent dramas, and her films have grossed over $6 billion worldwide. The world's highest-paid actress in 2015 and 2016, she appeared in Time's 100 most influential people in the world list in 2013 and the Forbes Celebrity 100 list from 2013 to 2016.
+
 Lawrence is a feminist and advocates for women's reproductive rights. In 2015, she founded the Jennifer Lawrence Foundation, which advocates for the Boys & Girls Clubs of America and the Special Olympics. She is also an active member of the anti-corruption organization RepresentUs. Lawrence formed the production company Excellent Cadaver in 2018.
 
 ## Timeline
@@ -21,5 +21,5 @@ Lawrence is a feminist and advocates for women's reproductive rights. In 2015, s
 
 
 Want to know more? Visit:  
-<https://en.wikipedia.org/wiki/Jennifer_Lawrence>
+<https://en.wikipedia.org/wiki/Jennifer_Lawrence>  
 <https://www.filmweb.pl/person/Jennifer+Lawrence-612192/biography>
