@@ -1,4 +1,5 @@
-# ![Jennifer Lawrence](https://awpress.pl/wp-content/uploads/2024/10/Screenshot_20241020_184852.jpg)  
+# Jennifer Lawrence   
+![Jennifer Lawrence](https://awpress.pl/wp-content/uploads/2024/10/Screenshot_20241020_184852.jpg)  
 
 ## Description
 
