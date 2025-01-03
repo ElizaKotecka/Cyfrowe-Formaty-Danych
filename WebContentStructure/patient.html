@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Patient Data Form</title>
+</head>
+<body>
+    <h1>Patient Data Form</h1>
+    <form>
+        <label for="fname">First Name:</label><br>
+        <input type="text" id="fname" name="fname"><br><br>
+        
+        <label for="lname">Last Name:</label><br>
+        <input type="text" id="lname" name="lname"><br><br>
+        
+        <label for="age">Age:</label><br>
+        <input type="number" id="age" name="age"><br><br>
+        
+        <label >Gender:</label><br>
+        <input type="radio" id="male" name="gender">
+        <label for="male">Male</label><br>
+        <input type="radio" id="female" name="gender">
+        <label for="female">Female</label><br><br>
+
+        <label for="height">Height (cm):</label><br>
+        <input type="number" id="height" name="height"><br><br>
+        
+        <label for="weight">Weight (kg):</label><br>
+        <input type="number" id="weight" name="weight"><br><br>
+
+        <label for="birth">Date of birth:</label><br>
+        <input type="date" id="birth" name="birth"><br><br>
+
+        <label for="birth_place">Place of birth:</label><br>
+        <input type="text" id="birth_place" name="birth_place"><br><br>
+
+        <label>Ilnessses:</label><br>
+        <input type="checkbox" id="ilness1" name="ilness1" value="PCOS">
+        <label for="ilness1">PCOS</label><br>
+        <input type="checkbox" id="ilness2" name="ilness2" value="Diabetes">
+        <label for="ilness2">Diabetes</label><br>
+        <input type="checkbox" id="ilness3" name="ilness3" value="Hashimoto">
+        <label for="ilness3">Hashimoto</label><br>
+        <input type="checkbox" id="ilness4" name="ilness4" value="Crohn's disease">
+        <label for="ilness4">Crohn's disease</label><br><br>
+
+        <label for="notes">Notes:</label><br>
+        <textarea id="notes" name="notes" rows="4" cols="30"></textarea><br><br>
+        
+        <button type="button">Ok</button>
+        <button type="button">Cancel</button>
+    </form>
+</body>
+</html>
